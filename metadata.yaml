@@ -13,6 +13,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19361#The-Babes-in-the-WoodOne-of-R.-Caldecott-s-Picture-Books
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2006-09-23'
 gutenberg_type: Text
